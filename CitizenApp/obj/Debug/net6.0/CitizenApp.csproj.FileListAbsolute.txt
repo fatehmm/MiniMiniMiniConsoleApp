@@ -1,0 +1,15 @@
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/bin/Debug/net6.0/CitizenApp
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/bin/Debug/net6.0/CitizenApp.deps.json
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/bin/Debug/net6.0/CitizenApp.runtimeconfig.json
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/bin/Debug/net6.0/CitizenApp.dll
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/bin/Debug/net6.0/CitizenApp.pdb
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/obj/Debug/net6.0/CitizenApp.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/obj/Debug/net6.0/CitizenApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/obj/Debug/net6.0/CitizenApp.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/obj/Debug/net6.0/CitizenApp.AssemblyInfo.cs
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/obj/Debug/net6.0/CitizenApp.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/obj/Debug/net6.0/CitizenApp.dll
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/obj/Debug/net6.0/refint/CitizenApp.dll
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/obj/Debug/net6.0/CitizenApp.pdb
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/obj/Debug/net6.0/CitizenApp.genruntimeconfig.cache
+/Users/fatehmmmdli/RiderProjects/CitizenApp/CitizenApp/obj/Debug/net6.0/ref/CitizenApp.dll
